@@ -1,0 +1,7 @@
+/target
+/dist
+*.ps1
+*.pem
+.env
+
+/tmp
